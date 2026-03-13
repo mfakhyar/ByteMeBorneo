@@ -21,7 +21,9 @@ By combining cultural storytelling with modern technology, ASLI aims to bridge t
 
 ## Prototype
 
-Prototype Link:
+Figma Link: https://www.figma.com/design/vRcrTYTNYZEjECfvQ0MicS/borneo?node-id=0-1&t=W6SGq5NXHhRPUViP-1
+
+Prototype Link: https://www.figma.com/proto/vRcrTYTNYZEjECfvQ0MicS/borneo?page-id=0%3A1&node-id=1-2&viewport=852%2C-125%2C0.16&t=2lvPqHeX6nLhiuoR-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=1%3A2
 
 ## Video Demonstration
 
