@@ -1,10 +1,14 @@
 # ASLI - ASEAN Stories & Legacy of the Indigenous
 
 ## Team Members
-Muhammad Faiz Akhyar bin Zulfaqar (Leader)
-Ubaidah bin Amran
-Muhammad Nabil Shafiq bin Ambaran
-Muhammad Darwisy Yadiy bin Badrul Hisham
+1. Muhammad Faiz Akhyar bin Zulfaqar (Leader)
+
+2. Ubaidah bin Amran
+
+3. Muhammad Nabil Shafiq bin Ambaran
+
+4. Muhammad Darwisy Yadiy bin Badrul Hisham
+
 
 ## Project Summary
 ASLI is a mobile application designed to preserve and share indigenous stories, traditions, and knowledge across ASEAN countries.
@@ -15,6 +19,7 @@ Our goal is to promote cultural preservation, education, and appreciation of ind
 
 ## Prototype
 Figma Interactive Design:
+
 https://www.figma.com/your-link
 
 ## Video Demo
