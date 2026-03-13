@@ -29,7 +29,6 @@ Prototype Link: https://www.figma.com/proto/vRcrTYTNYZEjECfvQ0MicS/borneo?page-i
 
 A short demonstration video showcasing the application concept, user flow, and prototype interaction.
 
-Video Link:
-
+Video Link: https://youtu.be/j66RAjdWOAY
 
 Video visibility: Unlisted
