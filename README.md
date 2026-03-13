@@ -18,3 +18,16 @@ ASLI (ASEAN Stories & Legacy of the Indigenous) is a digital platform designed t
 This project proposes an interactive mobile application where users can explore indigenous tribes through a map-based interface, discover cultural information, and experience traditional folktales through multimedia storytelling. The platform also encourages community participation by allowing indigenous members to share their knowledge and stories digitally.
 
 By combining cultural storytelling with modern technology, ASLI aims to bridge the gap between older knowledge keepers and younger digital generations, ensuring that ASEAN’s indigenous heritage remains preserved, accessible, and appreciated for the future.
+
+## Prototype
+
+Prototype Link:
+
+## Video Demonstration
+
+A short demonstration video showcasing the application concept, user flow, and prototype interaction.
+
+Video Link:
+
+
+Video visibility: Unlisted
